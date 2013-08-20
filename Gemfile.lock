@@ -2,9 +2,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     flickraw (0.9.6)
+    redis (3.0.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   flickraw
+  redis
